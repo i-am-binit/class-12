@@ -1,0 +1,11 @@
+Reg_no,SName,Phone_no,city,state,DOB,class,section,email_id
+SSN01,Binit,6002805613,Biswanath,Assam,2007-07-12,12,A,NULL
+SSN02,Juwaraj,8638821138,Biswanath,Assam,2006-09-28,12,A,NULL
+SSN03,Ripunjoy,6001027718,Lakhimpur,Assam,2006-06-08,12,A,NULL
+SSN04,Krishanu,8638627687,Sonitpur,Assam,2007-01-01,12,A,NULL
+SSN05,Jyotirmoy,9706203012,Lakhimpur,Assam,2006-09-08,12,A,NULL
+SSN06,Priyanshu,9859165995,Lakhimpur,Assam,2006-11-13,12,A,NULL
+SSN07,Victor,6001347932,Sonitpur,Assam,2006-06-28,12,A,NULL
+SSN08,Astha,8234821138,Lakhimpur,Assam,2006-03-28,12,A,NULL
+SSN09,Pustika,7099687133,Lakhimpur,Assam,2007-03-07,12,A,NULL
+SSN10,JYotirmoyee,709934545,Lakhimpur,Assam,2006-05-07,12,A,NULL

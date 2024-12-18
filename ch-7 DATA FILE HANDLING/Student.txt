@@ -1,0 +1,10 @@
+binit
+324532
+binit
+35435
+binit
+4324
+binit
+24324
+binit
+2.34324e+006
